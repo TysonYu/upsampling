@@ -1,0 +1,3 @@
+/home/icey/Desktop/upsampling/build/CMakeFiles/rebuild_cache.dir
+/home/icey/Desktop/upsampling/build/CMakeFiles/edit_cache.dir
+/home/icey/Desktop/upsampling/build/CMakeFiles/main.dir

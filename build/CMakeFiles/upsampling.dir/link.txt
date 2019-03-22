@@ -1,0 +1,2 @@
+/usr/bin/ar qc libupsampling.a  CMakeFiles/upsampling.dir/src/MarkerSensor.cpp.o CMakeFiles/upsampling.dir/src/MarkerParams.cpp.o
+/usr/bin/ranlib libupsampling.a
